@@ -13,7 +13,7 @@ A list of dev tools for my game programming class.
 10.  Houdini FX- Art tool for generating amazing FX. liked for its ease of use and amazing visuals.:https://www.sidefx.com/industries/games/
 
 But what are some game development career pathways?
-1.Game Programming, obviously. Being a game programmer means that you are the person that makes the game work, without you the game would just be an idea.
+1. Game Programming, obviously. Being a game programmer means that you are the person that makes the game work, without you the game would just be an idea.
 2. Game design. The designers of games, they come up with the ideas for the game. The rules and how the game works. their ideas are given to the programmers to be made into reality.
 3. Game art. The artist create everything about how the games look. They make it so a game does not need to be text based. Tons of work goes into making every scene or character.
 4. Game sound. Game sound designers create the audio for the games. They can take common things and impliment them to sound different. Great audio is an important part of the best games.
